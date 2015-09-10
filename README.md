@@ -1,5 +1,5 @@
 # gcm-client
-Google Cloud Messaging (GCM) Example Android App
+Google Cloud Messaging (GCM) Example Android App based on Google example code
 
 
 1. Change the package name
